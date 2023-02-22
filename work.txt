@@ -7,3 +7,6 @@ c
 x
 y
 z
+i
+j
+k
